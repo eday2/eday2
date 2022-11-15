@@ -1,4 +1,4 @@
-# Email me:
+# 邮箱:
 eday#tuta.io
 
-Replace # with @
+將#替換為@
